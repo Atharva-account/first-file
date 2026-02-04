@@ -1,5 +1,5 @@
 # first-file
 My Goal is solve as many problem as possible using data
-skill:- python
+skill:- python,sql
 <br>
 writen by Atharva kadam
