@@ -7,5 +7,5 @@ link:- https://public.tableau.com/app/profile/atharva.kadam6003/viz/airbnb_analy
 <br>
 <br>
 Tableau project of spoity analysis dashbord
-link:- https://public.tableau.com/app/profile/atharva.kadam6003/viz/spotify_data_visulization/Dashboard1
+link:- https://public.tableau.com/app/profile/atharva.kadam6003/viz/spotify_data_visulization/spotify_track
 writen by Atharva kadam
